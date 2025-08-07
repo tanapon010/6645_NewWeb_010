@@ -40,6 +40,11 @@
         <li><a href="W02_01_oddevennumber.php">Odd-Even-Number</a></li>
         <li><a href="W02_02_grade.php">Calculate Grade</a></li>
         <li><a href="Calculate.php">Calculate</a></li>
+        <li><a href="W06_01_loopProduct.php">Show Product(Fix data)</a></li>
+        <li><a href="W07_01_connectDB.php">Connect Database</a></li>
+        <li><a href="W07_02_fetchData.php">Fetch Data</a></li>
+        <li><a href="W08_01_ProductFormDB.php">Product Form Data Base</a></li>
+
     </ul>
 
 
